@@ -27,8 +27,6 @@ While hovering, the bottom bar smoothly slides up to reveal content.
 </div>
 ```
 
-
-
 ## Type 2
 
 Image Card Before Hover
@@ -52,7 +50,6 @@ While hovering, the bottom bar smoothly slides up to reveal content.
   </div>
 </div>
 ```
-
 
 ## Type 3
 
