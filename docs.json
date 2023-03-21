@@ -2,12 +2,12 @@
   "name": "Tem Plate",
   "sidebar": [
     [
-      "Overview",
+      "Welcome!",
       "/"
     ],
     [
-      "Mode",
-      "/mode"
+      "Cards",
+      "/cards"
     ]
   ],
   "experimentalCodehike": true
