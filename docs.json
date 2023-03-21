@@ -1,19 +1,14 @@
 {
-  "name": "Tem Plate Docs",
-  "theme": "#ab47bc",
+  "name": "Lorem Ipsum",
   "sidebar": [
     [
-      "Home",
+      "Overview",
       "/"
     ],
     [
-      "Another Page",
-      "/another-page"
+      "More",
+      "/more"
     ]
   ],
-  "docsearch": {
-    "appId": "...",
-    "apiKey": "...",
-    "indexName": "..."
-  }
+  "experimentalCodehike": true
 }
