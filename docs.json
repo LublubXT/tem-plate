@@ -1,0 +1,19 @@
+{
+  "name": "Tem Plate Docs",
+  "theme": "#ab47bc",
+  "sidebar": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Another Page",
+      "/another-page"
+    ]
+  ],
+  "docsearch": {
+    "appId": "...",
+    "apiKey": "...",
+    "indexName": "..."
+  }
+}
