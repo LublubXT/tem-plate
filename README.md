@@ -2,7 +2,7 @@
 
 **What is Tem Plate?** Tem Plate is a collection of free open-source hand-crafted web layouts, components, and templates built with tailwind css and more.
 
-**Why use Tem Plate?** Tem Plate was built to make building websites a fast and easy. It is loaded with many layouts and components. I am constantly adding more layouts and components for you guys to use in your projects.
+**Why use Tem Plate?** Tem Plate was built to make building website layouts fast and easy. It is loaded with many layouts and components. I am constantly adding more layouts and components for you guys to use in your projects.
 
 You can check out all the layouts, components, and more [here](https://tem-plate.netlify.app/).
 
