@@ -35,3 +35,8 @@ Sorry the images aren't the greatest quality.
 # Footers
 
 <img width="1280" alt="MacBook Air - 15" src="https://user-images.githubusercontent.com/73581388/227543253-1aa7d808-ff68-4bd7-ab43-bf83b011b877.png">
+
+# Code to Copy & Paste
+
+<img width="965" alt="screencapture-localhost-5173-layouts-navbars-2023-03-24-15_35_55 2" src="https://user-images.githubusercontent.com/73581388/227544523-4c3da698-a6f1-418e-86ad-0f98f53d6d34.png">
+
