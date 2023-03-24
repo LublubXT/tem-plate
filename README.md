@@ -10,7 +10,7 @@ You can check out all the layouts, components, and more [here](https://tem-plate
 
 #### If you want me to add a specific layout or component, please let me know in the Discussions. Send me a picture of your design, and I will add that layout as soon as possible. I am constantly trying to add new layouts and components, and you guys can help with that.
 
-Sorry the images aren't the greatest quality.
+Here are the layouts that I have built so far, with lots more to come! Sorry the images aren't the greatest quality.
 
 # Navbars
 
